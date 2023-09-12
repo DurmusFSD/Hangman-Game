@@ -51,7 +51,7 @@ Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
 
 İletişim
-Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [email protected] adresi üzerinden bizimle iletişime geçin.
+Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen durmusozgul66@gmail.com adresi üzerinden bizimle iletişime geçin.
 
 Teşekkürler
 Bu projeyi kullanmayı tercih ettiğiniz için teşekkür ederiz!
